@@ -18,16 +18,20 @@
 
 ## Что было сделано
 * Задание 1
-  * В package.json - Дописан скрипт запуска "Jest", оценки покрытия во время проогона тестов.
-  * Создан jest.config.js c настройками о покрытии.
-  * Дописаны unit-тесты для полного покрытия.
-  * Создан .gitignore. Подключены и настроены плагины Eslint, Prettier.
+  * В <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/jest/package.json">package.json</a> - Дописан скрипт запуска "Jest", оценки покрытия во время проогона тестов.
+  * Создан <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/jest/jest.config.js">jest.config.js</a> c настройками о покрытии.
+  * Дописаны <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/jest/test/unit/sortByName.test.js">unit-тесты</a> для полного покрытия.
+  * Создан <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/jest/.gitignore">.gitignore</a>. Подключены и настроены плагины
+    <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/jest/.eslint.json">Eslint</a>,
+    <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/jest/.prettier%2Cjson">Prettier</a>.
 * Задание 2.
-  * В package.json - Дописан скрипт запуска "Playwright".
-  * Создан playwright.config.js c параметрами запуска тестов.
-  * Написаны функциональные автотесты формы авторизации.
-  * Добавлены скриншоты для логирования шагов автотестов.
-  * Создан .gitignore. Подключены и настроены плагины Eslint, Prettier.
+  * В <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/playwright/package.json">package.json</a> - Дописан скрипт запуска "Playwright".
+  * Создан <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/playwright/playwright.config.js">playwright.config.js</a> c параметрами запуска тестов.
+  * Написаны функциональные <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/playwright/tests/MyTest.spec.js">автотесты</a> формы авторизации.
+  * Добавлены <a href="https://github.com/netology-code/jsaqa-code/issues/3">скриншоты</a> для логирования шагов автотестов.
+  * Создан <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/playwright/.gitignore">.gitignore</a>. Подключены и настроены плагины
+    <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/playwright/.eslint.json">Eslint</a>,
+    <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/playwright/.prettier.json">Prettier</a>.
 
 ## Задача 1. Jest. Unit-тесты и отчёты
 
