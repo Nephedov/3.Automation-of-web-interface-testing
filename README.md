@@ -2,36 +2,36 @@
 
 ## Решения
 ### Задание 1
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/jest/package.json">jest/package.json</a>. - Скрипт запуска.
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/jest/jest.config.js">jest/jest.config.js</a>. - Настройки покрытия.
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/jest/test/unit/sortByName.test.js">sortByName.test.js</a>. - Тесты.
+* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/jest/package.json">jest/package.json</a>. - Скрипт запуска.
+* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/jest/jest.config.js">jest/jest.config.js</a>. - Настройки покрытия.
+* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/jest/test/unit/sortByName.test.js">sortByName.test.js</a>. - автотесты.
 
-<a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/tree/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/jest">Репозиторий</a> Jest проекта.
+<a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/tree/main/7.3/jest">Репозиторий</a> Jest проекта.
 
 ### Задание 2
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/playwright/package.json">playwright/package.json</a>. - Скрипт запуска.
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/playwright/playwright.config.js">playwright/playwright.config.js</a>. - Конфигурация Playwright.
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/playwright/tests/MyTest.spec.js">MyTest.spec.js</a>. - Тесты.
+* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/playwright/package.json">playwright/package.json</a>. - Скрипт запуска.
+* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/playwright/playwright.config.js">playwright/playwright.config.js</a>. - Конфигурация Playwright.
+* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/playwright/tests/MyTest.spec.js">MyTest.spec.js</a>. - автотесты.
 * <a href="https://github.com/netology-code/jsaqa-code/issues/3">Screenshots</a>. - Скриншоты выполнения шагов автотестов.
 
-<a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/tree/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/playwright">Репозиторий</a> Playwright проекта.
+<a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/tree/main/7.3/playwright">Репозиторий</a> Playwright проекта.
 
 ## Что было сделано
 * Задание 1
-  * В <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/jest/package.json">package.json</a> - Дописан скрипт запуска "Jest", оценки покрытия во время проогона тестов.
-  * Создан <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/jest/jest.config.js">jest.config.js</a> c настройками о покрытии.
-  * Дописаны <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/jest/test/unit/sortByName.test.js">unit-тесты</a> для полного покрытия.
-  * Создан <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/jest/.gitignore">.gitignore</a>. Подключены и настроены плагины
-    <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/jest/.eslint.json">Eslint</a>,
-    <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/jest/.prettier%2Cjson">Prettier</a>.
+  * В <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/jest/package.json">jest/package.json</a> - Дописан скрипт запуска "Jest", оценки покрытия во время проогона тестов.
+  * Создан <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/jest/jest.config.js">jest/jest.config.js</a> c настройками о покрытии.
+  * Дописаны <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/jest/test/unit/sortByName.test.js">unit-тесты</a> для полного покрытия.
+  * Создан <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/jest/.gitignore">.gitignore</a>. Подключены и настроены плагины
+    <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/jest/.eslint.json">Eslint</a>,
+    <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/jest/.prettier%2Cjson">Prettier</a>.
 * Задание 2.
-  * В <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/playwright/package.json">package.json</a> - Дописан скрипт запуска "Playwright".
-  * Создан <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/playwright/playwright.config.js">playwright.config.js</a> c параметрами запуска тестов.
-  * Написаны функциональные <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/playwright/tests/MyTest.spec.js">автотесты</a> формы авторизации.
+  * В <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/playwright/package.json">playwright/package.json</a> - Дописан скрипт запуска "Playwright".
+  * Создан <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/playwright/playwright.config.js">playwright.config.js</a> c параметрами запуска тестов.
+  * Написаны функциональные <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/playwright/tests/MyTest.spec.js">автотесты</a> формы авторизации.
   * Добавлены <a href="https://github.com/netology-code/jsaqa-code/issues/3">скриншоты</a> для логирования шагов автотестов.
-  * Создан <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/playwright/.gitignore">.gitignore</a>. Подключены и настроены плагины
-    <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/playwright/.eslint.json">Eslint</a>,
-    <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.3/playwright/.prettier.json">Prettier</a>.
+  * Создан <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/playwright/.gitignore">.gitignore</a>. Подключены и настроены плагины
+    <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/playwright/.eslint.json">Eslint</a>,
+    <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/playwright/.prettier.json">Prettier</a>.
 
 ## Задача 1. Jest. Unit-тесты и отчёты
 
