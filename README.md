@@ -2,15 +2,15 @@
 
 ## Решения
 ### Задание 1
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/jest/package.json">jest/package.json</a>. - Скрипт запуска.
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/jest/jest.config.js">jest/jest.config.js</a>. - Настройки покрытия.
+* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/jest/package.json">jest/package.json</a>. - со скриптами запуска тестов и плагинами Eslint, Prettier.
+* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/jest/jest.config.js">jest/jest.config.js</a>. - Настройки покрытия и игнорирования.
 * <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/jest/test/unit/sortByName.test.js">sortByName.test.js</a>. - автотесты.
 
 <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/tree/main/7.3/jest">Репозиторий</a> Jest проекта.
 
 ### Задание 2
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/playwright/package.json">playwright/package.json</a>. - Скрипт запуска.
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/playwright/playwright.config.js">playwright/playwright.config.js</a>. - Конфигурация Playwright.
+* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/playwright/package.json">playwright/package.json</a>. - со скриптом запуска тестов.
+* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/playwright/playwright.config.js">playwright/playwright.config.js</a>. - Конфигурация Playwright для тестов.
 * <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/playwright/tests/MyTest.spec.js">MyTest.spec.js</a>. - автотесты.
 * <a href="https://github.com/netology-code/jsaqa-code/issues/3">Screenshots</a>. - Скриншоты выполнения шагов автотестов.
 
