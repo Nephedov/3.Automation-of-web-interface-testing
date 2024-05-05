@@ -33,7 +33,7 @@
     <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/playwright/.eslint.json">Eslint</a>,
     <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.3/playwright/.prettier.json">Prettier</a>.
 
-## Задача 1. Jest. Unit-тесты и отчёты
+## Описание Задания 1. Jest. Unit-тесты и отчёты
 
 1. Сделайте форк [проекта с лекции](https://github.com/netology-code/jsaqa-code/tree/main/7.3/jest).
 2. Добавьте отчёты о покрытии.
@@ -62,7 +62,7 @@
 5. Допишите недостающие тесты для покрытия 100% по всем параметрам.
 
 
-## Задача 2. UI-тест на Playwright
+## Описание Задания 2. UI-тест на Playwright
 
 Нужно протестировать авторизацию на сайте [netology.ru](https://netology.ru/).
 
